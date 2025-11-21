@@ -1,0 +1,1838 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Albuquerque",
+    "foto": "/imgm1.jpg",
+    "cargo": "Desenvolvedora Fullstack",
+    "resumo": "Focada em aplicações escaláveis, arquitetura moderna e boas práticas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Docker"
+    ],
+    "softskills": ["Comunicação", "Adaptabilidade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "TechPlus",
+        "cargo": "Fullstack Pleno",
+        "inicio": "2022",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Sistemas para Internet", "instituicao": "FATEC" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Painel de Gestão de Projetos",
+        "link": "https://github.com/mariana/painel-projetos",
+        "descricao": "Dashboard com gráficos e autenticação."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation", "Docker Essentials"],
+    "areaInteresses": ["Arquitetura de Software", "DevOps"]
+  },
+  {
+    "id": 2,
+    "nome": "Lucas Ferraz",
+    "foto": "/img1.webp",
+    "cargo": "Analista de Dados",
+    "resumo": "Transformo dados em insights estratégicos e visualizações claras.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Data Science",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "softskills": ["Pensamento analítico", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "FinData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Estatística", "instituicao": "UFMG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Modelo de Churn",
+        "link": "https://github.com/lucas/churn-model",
+        "descricao": "Modelo para prever evasão de clientes."
+      }
+    ],
+    "certificacoes": ["Microsoft Power BI Analyst"],
+    "areaInteresses": ["Inteligência Artificial", "Finanças"]
+  },
+  {
+    "id": 3,
+    "nome": "Ana Ribeiro",
+    "foto": "/imgm2.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Crio experiências intuitivas, acessíveis e visualmente modernas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Prototipação",
+      "User Research",
+      "HTML/CSS"
+    ],
+    "softskills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "BrightDesign",
+        "cargo": "Designer Pleno",
+        "inicio": "2021",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Design Digital", "instituicao": "PUC-PR" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "ZenCare",
+        "link": "https://behance.net/anazen",
+        "descricao": "App de meditação com onboarding."
+      }
+    ],
+    "certificacoes": ["UX Research – Alura"],
+    "areaInteresses": ["Acessibilidade", "Pesquisa de Usuário"]
+  },
+  {
+    "id": 4,
+    "nome": "Felipe Duarte",
+    "foto": "/im2.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em automação, pipelines CI/CD e infraestrutura escalável.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Kubernetes", "Terraform", "Linux", "CI/CD"],
+    "softskills": ["Proatividade", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "CloudOne",
+        "cargo": "DevOps",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UFBA" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Pipeline K8s",
+        "link": "https://github.com/felipe/pipeline-k8s",
+        "descricao": "Pipeline com GitHub Actions e K8s."
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect Associate"],
+    "areaInteresses": ["Arquitetura Cloud", "Segurança"]
+  },
+  {
+    "id": 5,
+    "nome": "Beatriz Santos",
+    "foto": "/imgm3.jpg",
+    "cargo": "Front-end Developer",
+    "resumo": "Criação de interfaces reativas e acessíveis com foco em performance.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "CSS"
+    ],
+    "softskills": ["Atenção a detalhes", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "WebHouse",
+        "cargo": "Front-end",
+        "inicio": "2019",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      { "curso": "Análise e Desenvolvimento", "instituicao": "PUCRS" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Site Corporativo",
+        "link": "https://github.com/beatriz/site",
+        "descricao": "Site com SPA e otimização SEO."
+      }
+    ],
+    "certificacoes": ["Next.js - Curso Avançado"],
+    "areaInteresses": ["Performance Web", "Acessibilidade"]
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Souza",
+    "foto": "/img3.webp",
+    "cargo": "Data Engineer",
+    "resumo": "Construção de pipelines e plataformas de dados confiáveis.",
+    "localizacao": "Recife/PE",
+    "area": "Data Engineering",
+    "habilidadesTecnicas": ["Python", "Spark", "Airflow", "SQL", "AWS"],
+    "softskills": ["Organização", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "DataWorks",
+        "cargo": "Data Engineer",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "UFPE" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "ETL Pipeline",
+        "link": "https://github.com/rafael/etl",
+        "descricao": "Pipeline de ingestão e transformação."
+      }
+    ],
+    "certificacoes": ["AWS Certified Data Analytics"],
+    "areaInteresses": ["Plataformas de Dados", "Streaming"]
+  },
+  {
+    "id": 7,
+    "nome": "Carolina Lima",
+    "foto": "/imgm4.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Design centrado no usuário com visão de produto e métricas.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design System", "Prototipação"],
+    "softskills": ["Empatia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "DesignHub",
+        "cargo": "Product Designer",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Design", "instituicao": "Universidade de Fortaleza" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Design System",
+        "link": "https://dribbble.com/carolina",
+        "descricao": "Design system para produto SaaS."
+      }
+    ],
+    "certificacoes": ["UX Design - Coursera"],
+    "areaInteresses": ["Design System", "Pesquisa de Usuário"]
+  },
+  {
+    "id": 8,
+    "nome": "Gustavo Oliveira",
+    "foto": "/img44.jpg",
+    "cargo": "Back-end Developer",
+    "resumo": "APIs robustas e bem testadas com foco em escalabilidade.",
+    "localizacao": "Goiânia/GO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Express", "TypeScript", "PostgreSQL"],
+    "softskills": ["Resiliência", "Pensamento lógico"],
+    "experiencias": [
+      {
+        "empresa": "APISol",
+        "cargo": "Back-end",
+        "inicio": "2018",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [{ "curso": "Sistemas de Informação", "instituicao": "UFG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "API Payments",
+        "link": "https://github.com/gustavo/payments-api",
+        "descricao": "API segura para pagamentos."
+      }
+    ],
+    "certificacoes": ["Node.js Advanced"],
+    "areaInteresses": ["Microservices", "Observability"]
+  },
+  {
+    "id": 9,
+    "nome": "Marcos Pereira",
+    "foto": "./images/marcos.jpg",
+    "cargo": "QA Engineer",
+    "resumo": "Automação de testes e garantia de qualidade em ciclos ágeis.",
+    "localizacao": "São Luís/MA",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Selenium", "Cypress", "JavaScript", "Testes E2E"],
+    "softskills": ["Detalhista", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "QualityLab",
+        "cargo": "QA",
+        "inicio": "2017",
+        "fim": "2022"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia de Software", "instituicao": "UEMA" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Suite E2E",
+        "link": "https://github.com/marcos/e2e-suite",
+        "descricao": "Automação de testes para web."
+      }
+    ],
+    "certificacoes": ["ISTQB Foundation"],
+    "areaInteresses": ["Testes Automatizados", "Qualidade"]
+  },
+  {
+    "id": 10,
+    "nome": "Patrícia Nunes",
+    "foto": "./images/patricia.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Condução de roadmap e priorização com foco em impacto do usuário.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Roadmap", "User Research", "OKRs"],
+    "softskills": ["Liderança", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Prodify", "cargo": "PM", "inicio": "2019", "fim": "2024" }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "UFSC" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Lançamento X",
+        "link": "https://www.prodify.com",
+        "descricao": "Lançamento de produto B2B."
+      }
+    ],
+    "certificacoes": ["PMI-ACP"],
+    "areaInteresses": ["Estratégia de Produto", "Pesquisa"]
+  },
+  {
+    "id": 11,
+    "nome": "Rosa Almeida",
+    "foto": "./images/rosa.jpg",
+    "cargo": "Analista de SEO",
+    "resumo": "Otimizo conteúdo e arquitetura para melhorar visibilidade orgânica.",
+    "localizacao": "Natal/RN",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Strategy"],
+    "softskills": ["Curiosidade", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "SearchBoost",
+        "cargo": "SEO Analyst",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Comunicação Social", "instituicao": "UFRN" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Audit SEO",
+        "link": "https://github.com/rosa/seo-audit",
+        "descricao": "Auditoria técnico/semântico."
+      }
+    ],
+    "certificacoes": ["Google Analytics Certified"],
+    "areaInteresses": ["SEO", "Content Marketing"]
+  },
+  {
+    "id": 12,
+    "nome": "Thiago Martins",
+    "foto": "./images/thiago.jpg",
+    "cargo": "Mobile Developer",
+    "resumo": "Desenvolvo apps nativos e cross-platform com foco em UX.",
+    "localizacao": "Campo Grande/MS",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["React Native", "Kotlin", "Swift", "Firebase"],
+    "softskills": ["Proatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "AppFactory",
+        "cargo": "Mobile Developer",
+        "inicio": "2018",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "UFMS" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "App Saúde",
+        "link": "https://github.com/thiago/health-app",
+        "descricao": "App para acompanhamento de saúde."
+      }
+    ],
+    "certificacoes": ["Google Firebase Essentials"],
+    "areaInteresses": ["Mobile Performance", "UX"]
+  },
+  {
+    "id": 13,
+    "nome": "Sofia Costa",
+    "foto": "./images/sofia.jpg",
+    "cargo": "Business Analyst",
+    "resumo": "Alinho requisitos de negócio com soluções técnicas eficientes.",
+    "localizacao": "Joinville/SC",
+    "area": "Negócios",
+    "habilidadesTecnicas": ["Processos", "SQL", "Modelagem UML"],
+    "softskills": ["Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "BizSol",
+        "cargo": "Business Analyst",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "UNIVILLE" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Mapeamento de Processos",
+        "link": "",
+        "descricao": "Mapeamento e otimização de processos."
+      }
+    ],
+    "certificacoes": ["CBAP"],
+    "areaInteresses": ["Processos", "Análise de Requisitos"]
+  },
+  {
+    "id": 14,
+    "nome": "Vinícius Rocha",
+    "foto": "./images/vinicius.jpg",
+    "cargo": "Security Engineer",
+    "resumo": "Implemento controles e práticas de segurança em infraestruturas cloud.",
+    "localizacao": "Vitória/ES",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["AWS", "Security", "SIEM", "PenTest"],
+    "softskills": ["Rigor", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SecureIT",
+        "cargo": "Security Engineer",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia", "instituicao": "UVV" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Hardening Cloud",
+        "link": "",
+        "descricao": "Políticas e hardening em AWS."
+      }
+    ],
+    "certificacoes": ["CEH", "AWS Security Specialty"],
+    "areaInteresses": ["Cloud Security", "Compliance"]
+  },
+  {
+    "id": 15,
+    "nome": "Eduarda Moreira",
+    "foto": "./images/eduarda.jpg",
+    "cargo": "Data Scientist",
+    "resumo": "Modelagem e experimentos aplicados a problemas de negócio.",
+    "localizacao": "Maceió/AL",
+    "area": "Data Science",
+    "habilidadesTecnicas": ["Python", "scikit-learn", "Pandas", "R"],
+    "softskills": ["Curiosidade", "Raciocínio lógico"],
+    "experiencias": [
+      {
+        "empresa": "InsightLab",
+        "cargo": "Data Scientist",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Mestrado em Ciência de Dados", "instituicao": "UFRJ" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Detecção de Fraude",
+        "link": "",
+        "descricao": "Modelo de classificação para fraude."
+      }
+    ],
+    "certificacoes": ["Machine Learning - Coursera"],
+    "areaInteresses": ["Deep Learning", "Visão Computacional"]
+  },
+  {
+    "id": 16,
+    "nome": "Bruno Carvalho",
+    "foto": "./images/bruno.jpg",
+    "cargo": "Sysadmin",
+    "resumo": "Administração de servidores, automação e suporte avançado.",
+    "localizacao": "Campinas/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Linux", "Bash", "Ansible", "Docker"],
+    "softskills": ["Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "InfraTech",
+        "cargo": "Sysadmin",
+        "inicio": "2016",
+        "fim": "2022"
+      }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "UNICAMP" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Automação Infra",
+        "link": "",
+        "descricao": "Automação com Ansible e Docker."
+      }
+    ],
+    "certificacoes": ["LPIC-1"],
+    "areaInteresses": ["Automação", "Infra as Code"]
+  },
+  {
+    "id": 17,
+    "nome": "Clara Almeida",
+    "foto": "./images/clara.jpg",
+    "cargo": "Content Designer",
+    "resumo": "Crio microcopy e fluxos de conteúdo que melhoram conversões.",
+    "localizacao": "São Paulo/SP",
+    "area": "Conteúdo",
+    "habilidadesTecnicas": ["Content Strategy", "UX Writing", "Figma"],
+    "softskills": ["Empatia", "Clareza"],
+    "experiencias": [
+      {
+        "empresa": "WriteLab",
+        "cargo": "Content Designer",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Comunicação", "instituicao": "ECA-USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Microcopy Patterns",
+        "link": "",
+        "descricao": "Guia de microcopy para produtos."
+      }
+    ],
+    "certificacoes": ["UX Writing - NN/g"],
+    "areaInteresses": ["UX Writing", "Conversational UX"]
+  },
+  {
+    "id": 18,
+    "nome": "Diego Fernandes",
+    "foto": "./images/diego.jpg",
+    "cargo": "Cloud Architect",
+    "resumo": "Projetos de arquitetura cloud com foco em custo e resiliência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["AWS", "Terraform", "Kubernetes", "CI/CD"],
+    "softskills": ["Visão estratégica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CloudBuilders",
+        "cargo": "Cloud Architect",
+        "inicio": "2017",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UFMG" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Arquitetura Multi-Region",
+        "link": "",
+        "descricao": "Arquitetura resiliente em AWS."
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect"],
+    "areaInteresses": ["Cloud Native", "Observability"]
+  },
+  {
+    "id": 19,
+    "nome": "Elisa Rodrigues",
+    "foto": "./images/elisa.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisa qualitativa e testes de usabilidade que geram insights acionáveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Usability Testing", "Interviews", "Figma"],
+    "softskills": ["Empatia", "Escuta ativa"],
+    "experiencias": [
+      {
+        "empresa": "UserFirst",
+        "cargo": "UX Researcher",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Psicologia", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Research Playbook",
+        "link": "",
+        "descricao": "Playbook de pesquisa para squads."
+      }
+    ],
+    "certificacoes": ["UX Research - Coursera"],
+    "areaInteresses": ["Pesquisa de Usuário", "Acessibilidade"]
+  },
+  {
+    "id": 20,
+    "nome": "Fábio Lima",
+    "foto": "./images/fabio.jpg",
+    "cargo": "Fullstack Engineer",
+    "resumo": "Desenvolvimento de produtos com ênfase em entrega contínua.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "PostgreSQL", "Docker"],
+    "softskills": ["Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "ProductLab",
+        "cargo": "Fullstack",
+        "inicio": "2017",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia de Software", "instituicao": "PUCRS" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Marketplace",
+        "link": "",
+        "descricao": "Plataforma de comércio eletrônico."
+      }
+    ],
+    "certificacoes": ["Scrum Master"],
+    "areaInteresses": ["E-commerce", "Arquitetura"]
+  },
+  {
+    "id": 21,
+    "nome": "Gisela Porto",
+    "foto": "./images/gisela.jpg",
+    "cargo": "Growth Marketer",
+    "resumo": "Crescimento orientado por dados e experimentação contínua.",
+    "localizacao": "Niterói/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Analytics", "A/B Testing", "Paid Media"],
+    "softskills": ["Criatividade", "Analítico"],
+    "experiencias": [
+      {
+        "empresa": "GrowCo",
+        "cargo": "Growth",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Marketing", "instituicao": "UFRJ" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Playbook Growth",
+        "link": "",
+        "descricao": "Estratégias de aquisição e retenção."
+      }
+    ],
+    "certificacoes": ["Google Ads Certified"],
+    "areaInteresses": ["Growth", "Analytics"]
+  },
+  {
+    "id": 22,
+    "nome": "Hugo Barros",
+    "foto": "./images/hugo.jpg",
+    "cargo": "Site Reliability Engineer",
+    "resumo": "Garantia de disponibilidade e observabilidade de sistemas críticos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Kubernetes", "Prometheus", "Grafana", "Terraform"],
+    "softskills": ["Raciocínio lógico", "Resiliência"],
+    "experiencias": [
+      { "empresa": "SRECorp", "cargo": "SRE", "inicio": "2018", "fim": "2024" }
+    ],
+    "formacao": [{ "curso": "Engenharia de Computação", "instituicao": "ITA" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "SLO Framework",
+        "link": "",
+        "descricao": "Definição de SLOs e alerts."
+      }
+    ],
+    "certificacoes": ["CKA"],
+    "areaInteresses": ["Observability", "Reliability"]
+  },
+  {
+    "id": 23,
+    "nome": "Isabela Freitas",
+    "foto": "./images/isabela.jpg",
+    "cargo": "Front-end Senior",
+    "resumo": "Construo interfaces ricas e componentes reutilizáveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Storybook", "CSS Modules"],
+    "softskills": ["Mentoria", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "UIWorks",
+        "cargo": "Front-end Senior",
+        "inicio": "2016",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Design e Tecnologia", "instituicao": "UNA" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Component Library",
+        "link": "",
+        "descricao": "Biblioteca de componentes para produto."
+      }
+    ],
+    "certificacoes": ["React Advanced"],
+    "areaInteresses": ["Design Systems", "Perf. Web"]
+  },
+  {
+    "id": 24,
+    "nome": "João Batista",
+    "foto": "./images/joao.jpg",
+    "cargo": "Infra Tech Lead",
+    "resumo": "Lidero times de infraestrutura e projetos de modernização.",
+    "localizacao": "Campo Grande/MS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Docker", "Kubernetes", "Terraform"],
+    "softskills": ["Liderança", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "InfraLead",
+        "cargo": "Tech Lead",
+        "inicio": "2015",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia de Software", "instituicao": "UFMS" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Modernização Infra",
+        "link": "",
+        "descricao": "Migração para cloud."
+      }
+    ],
+    "certificacoes": ["AWS Certified"],
+    "areaInteresses": ["Cloud", "Governança"]
+  },
+  {
+    "id": 25,
+    "nome": "Karina Souza",
+    "foto": "./images/karina.jpg",
+    "cargo": "Analista de Business Intelligence",
+    "resumo": "Transformo dados em dashboards e relatórios de negócio.",
+    "localizacao": "São Paulo/SP",
+    "area": "BI",
+    "habilidadesTecnicas": ["Power BI", "SQL", "DAX", "ETL"],
+    "softskills": ["Detalhista", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "BIExperts",
+        "cargo": "Analista BI",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "FGV" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Dashboards Financeiros",
+        "link": "",
+        "descricao": "Relatórios gerenciais para diretoria."
+      }
+    ],
+    "certificacoes": ["Power BI Analyst"],
+    "areaInteresses": ["Data Viz", "ETL"]
+  },
+  {
+    "id": 26,
+    "nome": "Larissa Melo",
+    "foto": "./images/larissa.jpg",
+    "cargo": "Engenheira de Machine Learning",
+    "resumo": "Productionalizo modelos e implemento pipelines de ML.",
+    "localizacao": "Belém/PA",
+    "area": "Machine Learning",
+    "habilidadesTecnicas": ["Python", "TensorFlow", "PyTorch", "MLOps"],
+    "softskills": ["Curiosidade", "Raciocínio"],
+    "experiencias": [
+      {
+        "empresa": "MLWorks",
+        "cargo": "ML Engineer",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Mestrado em IA", "instituicao": "UFPA" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Deploy Model",
+        "link": "",
+        "descricao": "Pipeline para deploy de modelos ML."
+      }
+    ],
+    "certificacoes": ["MLOps - Coursera"],
+    "areaInteresses": ["MLOps", "Deep Learning"]
+  },
+  {
+    "id": 27,
+    "nome": "Marcelo Antunes",
+    "foto": "./images/marcelo.jpg",
+    "cargo": "DevOps Specialist",
+    "resumo": "Automação de infraestrutura, CI/CD e observabilidade.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Jenkins", "Docker", "Kubernetes", "Terraform"],
+    "softskills": ["Proatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DeployNow",
+        "cargo": "DevOps",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia de Computação", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "CI/CD Pipeline",
+        "link": "",
+        "descricao": "Pipeline para microservices."
+      }
+    ],
+    "certificacoes": ["CKA"],
+    "areaInteresses": ["CI/CD", "Observability"]
+  },
+  {
+    "id": 28,
+    "nome": "Natália Pinto",
+    "foto": "./images/natalia.jpg",
+    "cargo": "Designer Visual",
+    "resumo": "Foco em identidade visual e interfaces limpas.",
+    "localizacao": "Bauru/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Illustrator", "Photoshop", "Figma"],
+    "softskills": ["Criatividade", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "BrandLab",
+        "cargo": "Designer Visual",
+        "inicio": "2017",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [{ "curso": "Design Gráfico", "instituicao": "UNESP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Identidade X",
+        "link": "",
+        "descricao": "Projeto de brand identity."
+      }
+    ],
+    "certificacoes": ["Design Sprint"],
+    "areaInteresses": ["Brand", "UI"]
+  },
+  {
+    "id": 29,
+    "nome": "Otávio Nogueira",
+    "foto": "./images/otavio.jpg",
+    "cargo": "AR/VR Developer",
+    "resumo": "Desenvolvo experiências imersivas com Unity e WebXR.",
+    "localizacao": "Campina Grande/PB",
+    "area": "Imersão",
+    "habilidadesTecnicas": ["Unity", "C#", "WebXR", "Three.js"],
+    "softskills": ["Criatividade", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "ImmersiveLab",
+        "cargo": "AR Developer",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Jogos Digitais", "instituicao": "UFCG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "AR Tour",
+        "link": "",
+        "descricao": "Tour imersivo para museus."
+      }
+    ],
+    "certificacoes": ["Unity Certified"],
+    "areaInteresses": ["AR/VR", "3D"]
+  },
+  {
+    "id": 30,
+    "nome": "Paula Mendes",
+    "foto": "./images/paula.jpg",
+    "cargo": "Content Strategist",
+    "resumo": "Planejo conteúdo alinhado a jornada do usuário e SEO.",
+    "localizacao": "São Paulo/SP",
+    "area": "Conteúdo",
+    "habilidadesTecnicas": ["SEO", "Content Strategy", "Analytics"],
+    "softskills": ["Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ContentLab",
+        "cargo": "Content Strategist",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Comunicação", "instituicao": "ESP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Content Revamp",
+        "link": "",
+        "descricao": "Revisão de conteúdo para site corporativo."
+      }
+    ],
+    "certificacoes": ["Content Marketing - HubSpot"],
+    "areaInteresses": ["SEO", "Content Ops"]
+  },
+  {
+    "id": 31,
+    "nome": "Quésia Rocha",
+    "foto": "./images/quesia.jpg",
+    "cargo": "Analista de Suporte",
+    "resumo": "Suporte técnico e resolução de incidentes com foco no cliente.",
+    "localizacao": "Teresina/PI",
+    "area": "Suporte",
+    "habilidadesTecnicas": ["Windows Server", "Helpdesk", "ITIL"],
+    "softskills": ["Paciência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "HelpDeskPro",
+        "cargo": "Analista de Suporte",
+        "inicio": "2016",
+        "fim": "2022"
+      }
+    ],
+    "formacao": [
+      { "curso": "Tecnologia da Informação", "instituicao": "UESPI" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "projetos": [
+      {
+        "titulo": "SLA Improvements",
+        "link": "",
+        "descricao": "Melhoria de SLAs e processos."
+      }
+    ],
+    "certificacoes": ["ITIL Foundation"],
+    "areaInteresses": ["SLA", "Processos"]
+  },
+  {
+    "id": 32,
+    "nome": "Rita Carvalho",
+    "foto": "./images/rita.jpg",
+    "cargo": "Analista de Dados Júnior",
+    "resumo": "Análises e relatórios para apoiar decisões táticas.",
+    "localizacao": "Mogi das Cruzes/SP",
+    "area": "Data",
+    "habilidadesTecnicas": ["Excel", "SQL", "Tableau"],
+    "softskills": ["Organização", "Curiosidade"],
+    "experiencias": [
+      {
+        "empresa": "DataStart",
+        "cargo": "Analista Júnior",
+        "inicio": "2021",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "USCS" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "projetos": [
+      {
+        "titulo": "Relatório Vendas",
+        "link": "",
+        "descricao": "Relatórios semanais de vendas."
+      }
+    ],
+    "certificacoes": ["Excel Avançado"],
+    "areaInteresses": ["BI", "Automação"]
+  },
+  {
+    "id": 33,
+    "nome": "Samuel Lopes",
+    "foto": "./images/samuel.jpg",
+    "cargo": "Engineering Manager",
+    "resumo": "Liderança técnica e gestão de times de engenharia.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Leadership", "Agile", "OKR"],
+    "softskills": ["Liderança", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "ScaleUp",
+        "cargo": "Engineering Manager",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia", "instituicao": "FEI" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Team Restructure",
+        "link": "",
+        "descricao": "Reorganização de squads."
+      }
+    ],
+    "certificacoes": ["ICAgile Certified"],
+    "areaInteresses": ["People Management", "Processos Ágeis"]
+  },
+  {
+    "id": 34,
+    "nome": "Tânia Oliveira",
+    "foto": "./images/tania.jpg",
+    "cargo": "Analista de Dados Sênior",
+    "resumo": "Insights estratégicos para áreas de negócio.",
+    "localizacao": "Campina Grande/PB",
+    "area": "Data Science",
+    "habilidadesTecnicas": ["Python", "SQL", "Tableau", "ML"],
+    "softskills": ["Visão analítica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "InsightPro",
+        "cargo": "Senior Data Analyst",
+        "inicio": "2016",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Estatística", "instituicao": "UFPB" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Forecasting Sales",
+        "link": "",
+        "descricao": "Modelos de previsão de vendas."
+      }
+    ],
+    "certificacoes": ["Data Science Professional"],
+    "areaInteresses": ["Forecasting", "Business Analytics"]
+  },
+  {
+    "id": 35,
+    "nome": "Ulisses Duarte",
+    "foto": "./images/ulisses.jpg",
+    "cargo": "Consultor SAP",
+    "resumo": "Implementações e suporte em módulos SAP.",
+    "localizacao": "Campo Grande/MS",
+    "area": "ERP",
+    "habilidadesTecnicas": ["SAP FI", "SAP CO", "ABAP"],
+    "softskills": ["Organização", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "ERP Solutions",
+        "cargo": "Consultor SAP",
+        "inicio": "2014",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "UFGD" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Go Live SAP",
+        "link": "",
+        "descricao": "Implementação em cliente."
+      }
+    ],
+    "certificacoes": ["SAP Certified"],
+    "areaInteresses": ["ERP", "Processos"]
+  },
+  {
+    "id": 36,
+    "nome": "Valéria Gomes",
+    "foto": "./images/valeria.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Gestão de talento e recrutamento técnico.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": ["Atração de Talentos", "ATS", "People Analytics"],
+    "softskills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "PeopleFirst",
+        "cargo": "Analista RH",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Psicologia", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Employer Branding",
+        "link": "",
+        "descricao": "Campanha de marca empregadora."
+      }
+    ],
+    "certificacoes": ["People Analytics"],
+    "areaInteresses": ["Recrutamento", "Employer Branding"]
+  },
+  {
+    "id": 37,
+    "nome": "Wagner Cruz",
+    "foto": "./images/wagner.jpg",
+    "cargo": "BI Developer",
+    "resumo": "Desenvolvimento de soluções de BI e relatórios gerenciais.",
+    "localizacao": "São Paulo/SP",
+    "area": "BI",
+    "habilidadesTecnicas": ["Power BI", "SQL", "ETL", "DAX"],
+    "softskills": ["Organização", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "DataBI",
+        "cargo": "BI Developer",
+        "inicio": "2017",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "Mackenzie" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "BI Vendas",
+        "link": "",
+        "descricao": "Dashboards para área comercial."
+      }
+    ],
+    "certificacoes": ["Power BI Certified"],
+    "areaInteresses": ["DataViz", "ETL"]
+  },
+  {
+    "id": 38,
+    "nome": "Ximena Alvarez",
+    "foto": "./images/ximena.jpg",
+    "cargo": "Localization Specialist",
+    "resumo": "Adaptação de produtos para mercados internacionais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Localização",
+    "habilidadesTecnicas": ["Tradução", "i18n", "L10n Tools"],
+    "softskills": ["Atenção cultural", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "LocalizeIt",
+        "cargo": "Localization Specialist",
+        "inicio": "2016",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Letras", "instituicao": "UFRGS" }],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "projetos": [
+      {
+        "titulo": "Localização App",
+        "link": "",
+        "descricao": "Localização completa para LATAM."
+      }
+    ],
+    "certificacoes": ["Localization Professional"],
+    "areaInteresses": ["i18n", "UX Writing"]
+  },
+  {
+    "id": 39,
+    "nome": "Yuri Ribeiro",
+    "foto": "./images/yuri.jpg",
+    "cargo": "Game Developer",
+    "resumo": "Desenvolvimento de mecânicas e sistemas para jogos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Games",
+    "habilidadesTecnicas": ["Unity", "C#", "Shader", "Physics"],
+    "softskills": ["Criatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "PlayLab",
+        "cargo": "Game Developer",
+        "inicio": "2016",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [{ "curso": "Jogos Digitais", "instituicao": "UFMG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Indie Game",
+        "link": "",
+        "descricao": "Jogo lançado em plataformas digitais."
+      }
+    ],
+    "certificacoes": ["Unity Certified"],
+    "areaInteresses": ["Game Design", "Simulações"]
+  },
+  {
+    "id": 40,
+    "nome": "Zilda Ferreira",
+    "foto": "./images/zilda.jpg",
+    "cargo": "Design Researcher",
+    "resumo": "Pesquisa aplicada para informar decisões de produto.",
+    "localizacao": "São Paulo/SP",
+    "area": "Pesquisa",
+    "habilidadesTecnicas": ["Entrevistas", "Synthesis", "Usability Testing"],
+    "softskills": ["Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "ResearchCo",
+        "cargo": "Design Researcher",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Antropologia", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Research Ops",
+        "link": "",
+        "descricao": "Implementação de pesquisa contínua."
+      }
+    ],
+    "certificacoes": ["Qualitative Research"],
+    "areaInteresses": ["Pesquisa", "Etnografia"]
+  },
+  {
+    "id": 41,
+    "nome": "Aline Batista",
+    "foto": "./images/aline.jpg",
+    "cargo": "Technical Writer",
+    "resumo": "Documentação clara e guias para desenvolvedores e usuários.",
+    "localizacao": "São Paulo/SP",
+    "area": "Conteúdo",
+    "habilidadesTecnicas": ["Markdown", "Docs", "API Docs"],
+    "softskills": ["Clareza", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "DocsHub",
+        "cargo": "Technical Writer",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Comunicação", "instituicao": "PUC-SP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "SDK Docs",
+        "link": "",
+        "descricao": "Documentação de SDK para devs."
+      }
+    ],
+    "certificacoes": ["Technical Writing"],
+    "areaInteresses": ["Docs", "Developer Experience"]
+  },
+  {
+    "id": 42,
+    "nome": "Bruna Cardoso",
+    "foto": "./images/bruna.jpg",
+    "cargo": "UX Engineer",
+    "resumo": "Pontuo design e desenvolvimento para soluções acessíveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Design/Dev",
+    "habilidadesTecnicas": ["HTML", "CSS", "React", "A11y"],
+    "softskills": ["Colaboração", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "UXDev",
+        "cargo": "UX Engineer",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Design e TI", "instituicao": "UNICAMP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Accessible Widgets",
+        "link": "",
+        "descricao": "Componentes acessíveis."
+      }
+    ],
+    "certificacoes": ["A11y Specialist"],
+    "areaInteresses": ["Acessibilidade", "Design Systems"]
+  },
+  {
+    "id": 43,
+    "nome": "Caio Viana",
+    "foto": "./images/caio.jpg",
+    "cargo": "Mobile iOS Developer",
+    "resumo": "Especialista em apps iOS com foco em UX nativo.",
+    "localizacao": "Vitória/ES",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["Swift", "Objective-C", "Combine"],
+    "softskills": ["Atenção a detalhes", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "iOSLab",
+        "cargo": "iOS Developer",
+        "inicio": "2017",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "UVV" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Finance App iOS",
+        "link": "",
+        "descricao": "App financeiro com integrações."
+      }
+    ],
+    "certificacoes": ["iOS Dev Course"],
+    "areaInteresses": ["Mobile", "UX"]
+  },
+  {
+    "id": 44,
+    "nome": "Diana Freitas",
+    "foto": "./images/diana.jpg",
+    "cargo": "Customer Success",
+    "resumo": "Apoio ao cliente e redução de churn através de sucesso ativo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Customer",
+    "habilidadesTecnicas": ["CS Ops", "Onboarding", "CRM"],
+    "softskills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SuccessHub",
+        "cargo": "Customer Success",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "Mackenzie" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Onboarding Flow",
+        "link": "",
+        "descricao": "Implementação de jornada de onboarding."
+      }
+    ],
+    "certificacoes": ["Customer Success Certification"],
+    "areaInteresses": ["Customer Experience", "Retention"]
+  },
+  {
+    "id": 45,
+    "nome": "Emanuel Costa",
+    "foto": "./images/emanuel.jpg",
+    "cargo": "Fullstack (Node + React)",
+    "resumo": "Entrega de features com foco em qualidade e testes automáticos.",
+    "localizacao": "Campina Grande/PB",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "React", "Jest", "TypeScript"],
+    "softskills": ["Organização", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "DevHouse",
+        "cargo": "Fullstack",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Sistemas para Internet", "instituicao": "UFCG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Internal Tools",
+        "link": "",
+        "descricao": "Ferramentas internas para ops."
+      }
+    ],
+    "certificacoes": ["TypeScript Master"],
+    "areaInteresses": ["Testing", "DX"]
+  },
+  {
+    "id": 46,
+    "nome": "Fabiana Costa",
+    "foto": "./images/fabiana.jpg",
+    "cargo": "Analista de Dados Pleno",
+    "resumo": "Análises de negócio e criação de modelos simples.",
+    "localizacao": "São Paulo/SP",
+    "area": "Data",
+    "habilidadesTecnicas": ["Python", "SQL", "Pandas", "Power BI"],
+    "softskills": ["Curiosidade", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "AnalyticsPro",
+        "cargo": "Data Analyst",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Estatística", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "KPI Dashboard",
+        "link": "",
+        "descricao": "Dashboard executivo."
+      }
+    ],
+    "certificacoes": ["Data Analysis - Coursera"],
+    "areaInteresses": ["Dashboards", "KPIs"]
+  },
+  {
+    "id": 47,
+    "nome": "Gustávio Alves",
+    "foto": "./images/gustavio.jpg",
+    "cargo": "Research Scientist",
+    "resumo": "Pesquisa aplicada para prototipação de features baseadas em IA.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Pesquisa/IA",
+    "habilidadesTecnicas": ["Python", "PyTorch", "NLP"],
+    "softskills": ["Curiosidade", "Raciocínio"],
+    "experiencias": [
+      {
+        "empresa": "LabsAI",
+        "cargo": "Research Scientist",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Doutorado em IA", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "NLP Research",
+        "link": "",
+        "descricao": "Pesquisa em NLP aplicada."
+      }
+    ],
+    "certificacoes": ["Deep Learning Specialization"],
+    "areaInteresses": ["NLP", "Pesquisa"]
+  },
+  {
+    "id": 48,
+    "nome": "Helena Braga",
+    "foto": "./images/helena.jpg",
+    "cargo": "Operations Manager",
+    "resumo": "Gestão de operações e processos em ambientes de alta demanda.",
+    "localizacao": "São Paulo/SP",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Processos", "KPI", "Lean"],
+    "softskills": ["Organização", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "OpsWorks",
+        "cargo": "Ops Manager",
+        "inicio": "2016",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "FGV" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Ops Playbook",
+        "link": "",
+        "descricao": "Padronização operacional."
+      }
+    ],
+    "certificacoes": ["Lean Six Sigma"],
+    "areaInteresses": ["Processos", "Eficiência"]
+  },
+  {
+    "id": 49,
+    "nome": "Igor Mendes",
+    "foto": "./images/igor.jpg",
+    "cargo": "Analytics Engineer",
+    "resumo": "Modelagem de dados para consumo analítico e pipelines ETL.",
+    "localizacao": "Recife/PE",
+    "area": "Data",
+    "habilidadesTecnicas": ["dbt", "SQL", "Python", "Airflow"],
+    "softskills": ["Metodicidade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DataCraft",
+        "cargo": "Analytics Engineer",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "UFPE" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "dbt Models",
+        "link": "",
+        "descricao": "Modelos e pipelines analíticos."
+      }
+    ],
+    "certificacoes": ["dbt Fundamentals"],
+    "areaInteresses": ["Data Modeling", "ETL"]
+  },
+  {
+    "id": 50,
+    "nome": "Jéssica Fernandes",
+    "foto": "./images/jessica.jpg",
+    "cargo": "Social Media Manager",
+    "resumo": "Estratégia e execução em canais sociais para engajamento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Content Strategy", "Ads", "Analytics"],
+    "softskills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SocialUp",
+        "cargo": "Social Media",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Publicidade", "instituicao": "ESPM" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Campanha Viral",
+        "link": "",
+        "descricao": "Campanha com alto alcance."
+      }
+    ],
+    "certificacoes": ["Facebook Ads Certified"],
+    "areaInteresses": ["Social", "Brand"]
+  },
+  {
+    "id": 51,
+    "nome": "Kauan Ribeiro",
+    "foto": "./images/kauan.jpg",
+    "cargo": "Robotics Engineer",
+    "resumo": "Desenvolvo sistemas embarcados e integração robótica.",
+    "localizacao": "Joinville/SC",
+    "area": "Robótica",
+    "habilidadesTecnicas": ["C++", "ROS", "Embedded", "Linux"],
+    "softskills": ["Raciocínio lógico", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "RoboLab",
+        "cargo": "Robotics Engineer",
+        "inicio": "2017",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia Mecatrônica", "instituicao": "UFSC" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Robô Assistente",
+        "link": "",
+        "descricao": "Robô protótipo para assistência."
+      }
+    ],
+    "certificacoes": ["ROS Developer"],
+    "areaInteresses": ["Robótica", "Automação"]
+  },
+  {
+    "id": 52,
+    "nome": "Laís Santana",
+    "foto": "./images/lais.jpg",
+    "cargo": "Frontend Developer Junior",
+    "resumo": "Construção de interfaces com foco em usabilidade.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "HTML", "CSS", "JavaScript"],
+    "softskills": ["Aprendizado rápido", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "StartWeb",
+        "cargo": "Front-end Junior",
+        "inicio": "2022",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Sistemas para Internet", "instituicao": "UFJF" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "projetos": [
+      {
+        "titulo": "Portfolio",
+        "link": "",
+        "descricao": "Portfólio pessoal com projetos."
+      }
+    ],
+    "certificacoes": ["HTML/CSS Advanced"],
+    "areaInteresses": ["Front-end", "Acessibilidade"]
+  },
+  {
+    "id": 53,
+    "nome": "Márcio Lopes",
+    "foto": "./images/marcio.jpg",
+    "cargo": "Technical Lead",
+    "resumo": "Coordenação técnica e decisões arquiteturais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["Architecture", "Microservices", "Kubernetes"],
+    "softskills": ["Visão estratégica", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "TechLeadCo",
+        "cargo": "Technical Lead",
+        "inicio": "2015",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Engenharia de Software", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Microservices Migration",
+        "link": "",
+        "descricao": "Migração para microservices."
+      }
+    ],
+    "certificacoes": ["Arquitetura de Software"],
+    "areaInteresses": ["Arquitetura", "Escalabilidade"]
+  },
+  {
+    "id": 54,
+    "nome": "Nathalia Soares",
+    "foto": "./images/nathalia.jpg",
+    "cargo": "HRBP",
+    "resumo": "Parceria estratégica com as áreas de negócio para gente e cultura.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": ["People Ops", "Talent Management"],
+    "softskills": ["Negociação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "PeoplePartners",
+        "cargo": "HRBP",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Recursos Humanos", "instituicao": "UFMG" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "People Analytics",
+        "link": "",
+        "descricao": "Implementação de métricas de RH."
+      }
+    ],
+    "certificacoes": ["HR Certification"],
+    "areaInteresses": ["People Analytics", "Cultura"]
+  },
+  {
+    "id": 55,
+    "nome": "Osvaldo Pinto",
+    "foto": "./images/osvaldo.jpg",
+    "cargo": "ERP Consultant",
+    "resumo": "Consultoria e customização de soluções ERP para médio porte.",
+    "localizacao": "Campinas/SP",
+    "area": "ERP",
+    "habilidadesTecnicas": ["SAP", "Oracle", "Processos"],
+    "softskills": ["Negociação", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "ERPConsult",
+        "cargo": "Consultor ERP",
+        "inicio": "2013",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "PUC-Campinas" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "ERP Rollout",
+        "link": "",
+        "descricao": "Rollout em 3 filiais."
+      }
+    ],
+    "certificacoes": ["SAP Consultant"],
+    "areaInteresses": ["ERP", "Processos"]
+  },
+  {
+    "id": 56,
+    "nome": "Priscila Morais",
+    "foto": "./images/priscila.jpg",
+    "cargo": "Data Analyst",
+    "resumo": "Dashboards e análises para suporte à tomada de decisão.",
+    "localizacao": "Vitória/ES",
+    "area": "Data",
+    "habilidadesTecnicas": ["SQL", "Power BI", "Excel"],
+    "softskills": ["Curiosidade", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "Analytica",
+        "cargo": "Data Analyst",
+        "inicio": "2019",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Estatística", "instituicao": "UFES" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Sales Dashboard",
+        "link": "",
+        "descricao": "Dashboard comercial."
+      }
+    ],
+    "certificacoes": ["Power BI"],
+    "areaInteresses": ["Dashboards", "Analytics"]
+  },
+  {
+    "id": 57,
+    "nome": "Ronaldo Silva",
+    "foto": "./images/ronaldo.jpg",
+    "cargo": "Network Engineer",
+    "resumo": "Projeto e operação de redes corporativas com alta disponibilidade.",
+    "localizacao": "Belém/PA",
+    "area": "Redes",
+    "habilidadesTecnicas": ["Cisco", "Routing", "Switching"],
+    "softskills": ["Rigor", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "NetCorp",
+        "cargo": "Network Engineer",
+        "inicio": "2014",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Redes de Computadores", "instituicao": "UFPA" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "projetos": [
+      {
+        "titulo": "Net Upgrade",
+        "link": "",
+        "descricao": "Atualização de backbone."
+      }
+    ],
+    "certificacoes": ["CCNA"],
+    "areaInteresses": ["Redes", "Segurança"]
+  },
+  {
+    "id": 58,
+    "nome": "Sabrina Teixeira",
+    "foto": "./images/sabrina.jpg",
+    "cargo": "Frontend Architect",
+    "resumo": "Direção técnica em frontend e definição de padrões de arquitetura.",
+    "localizacao": "São Paulo/SP",
+    "area": "Frontend",
+    "habilidadesTecnicas": ["React", "TypeScript", "Monorepo", "SSR"],
+    "softskills": ["Mentoria", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "FrontMasters",
+        "cargo": "Architect",
+        "inicio": "2016",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "USP" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Monorepo Setup",
+        "link": "",
+        "descricao": "Setup e governance de monorepo."
+      }
+    ],
+    "certificacoes": ["React Expert"],
+    "areaInteresses": ["Arquitetura Frontend", "Perfomance"]
+  },
+  {
+    "id": 59,
+    "nome": "Tiago Nascimento",
+    "foto": "./images/tiago.jpg",
+    "cargo": "SRE Team Lead",
+    "resumo": "Liderança de time SRE, setup de observabilidade e DR.",
+    "localizacao": "Curitiba/PR",
+    "area": "SRE",
+    "habilidadesTecnicas": ["Prometheus", "Grafana", "Terraform", "Kubernetes"],
+    "softskills": ["Liderança", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SREWorks",
+        "cargo": "SRE Lead",
+        "inicio": "2018",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UTFPR" }
+    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "DR Plan",
+        "link": "",
+        "descricao": "Plano de recuperação de desastres."
+      }
+    ],
+    "certificacoes": ["GCP Professional"],
+    "areaInteresses": ["DR", "Observability"]
+  },
+  {
+    "id": 60,
+    "nome": "Ursula Almeida",
+    "foto": "./images/ursula.jpg",
+    "cargo": "Product Designer Senior",
+    "resumo": "Design estratégico e liderança em squads de produto.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "User Research", "Design Ops"],
+    "softskills": ["Liderança", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "DesignWorks",
+        "cargo": "Senior Product Designer",
+        "inicio": "2015",
+        "fim": "2024"
+      }
+    ],
+    "formacao": [{ "curso": "Design", "instituicao": "ESPM" }],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "projetos": [
+      {
+        "titulo": "Design Leadership",
+        "link": "",
+        "descricao": "Mentoria e processos de design."
+      }
+    ],
+    "certificacoes": ["Design Leadership"],
+    "areaInteresses": ["Design Strategy", "Mentoria"]
+  }
+]
